@@ -1,3 +1,3 @@
 # CustomVerticalDragListView
 
-![image](https://github.com/carlcarl001001/CustomVerticalDragListView/blob/master/result.png)
+![image](https://github.com/carlcarl001001/CustomVerticalDragListView/blob/master/result.gif)
